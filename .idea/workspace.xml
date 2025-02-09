@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7baf4e89-e21c-43ae-8eaa-ce4875d45407" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OD-algoritm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_1_home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_3_home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_4_home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_1_work.py" afterDir="false" />
+    <list default="true" id="7baf4e89-e21c-43ae-8eaa-ce4875d45407" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Link-deep"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Link-deep/OD-algoritm.git",
@@ -201,6 +195,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737009364228</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739084527464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739084527464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
